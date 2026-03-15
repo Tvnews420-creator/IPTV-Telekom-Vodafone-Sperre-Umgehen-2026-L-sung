@@ -20,3 +20,5 @@ Wir garantieren eine Verbindung, die von keinem deutschen Provider blockiert wer
 
 ---
 Technischer Hinweis: Kompatibel mit allen Apps (TiviMate, IPTV Smarters, XCIPTV).
+
+Related Guides: [IPTV München Lösung](https://github.com/Tvnews420-creator/IPTV-Anbieter-Munchen-2026-Test-Abo) | [IPTV Optimierung für Nvidia Shield Pro (Deutschland 2026)]([رابط_مستودع_الحظر](https://github.com/Tvnews420-creator/IPTV-Nvidia-Shield-Germany-2026-Optimization./blob/main/README.md))
